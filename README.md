@@ -1,4 +1,4 @@
-### Demo project for python beginners
+### Demo project for python beginners and novices of OpenStack development
 
 - WSGI
 - paste deployment
